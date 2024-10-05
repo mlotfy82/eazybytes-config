@@ -1,8 +1,8 @@
 build:
-  version: "2.0"
+  version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIs "
+  message: "Welcome to EazyBank accounts related QA APIs From Docker"
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "smitha@eazybank.com"
